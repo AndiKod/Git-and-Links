@@ -1,23 +1,16 @@
-# Javascript Galaxy
+# Javascript
 Some quick links to get started.
-
-----
 
 ## Javascript itself
 * Mozzila [JS Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-* ...
-* ...
+
+## Generic plateform
+[Meteor](https://docs.angularjs.org/guide): Docs 1.2.1
 
 ## Frontend stuff official Docs
-* *Angular1* [Dev Guide](https://docs.angularjs.org/guide), [API](https://docs.angularjs.org/api)
-* *Angular2* [Angular Docs](https://angular.io/docs/js/latest/index.html), [API 2.0](https://angular.io/docs/ts/latest/api/index.html)
-* *React* [Get Started & API](http://facebook.github.io/react/docs/getting-started.html)
-* *Ember* [Guide v2.4.0](https://guides.emberjs.com/v2.4.0/), [API](https://guides.emberjs.com/api/)
-* *Vue* [GetStarted](http://vuejs.org/guide/), [API](http://vuejs.org/api/), [Examples](http://vuejs.org/examples/)
-* *Aurelia* [Docs & API](http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/what-is-aurelia)
+[Angular](https://docs.angularjs.org/guide) | [Angular2](https://angular.io/docs/js/latest/index.html) | [ReactJS](http://facebook.github.io/react/docs/getting-started.html) | [EmberJS](https://guides.emberjs.com/v2.4.0/) | [VueJS](http://vuejs.org/guide/) | [AureliaJS](http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/what-is-aurelia)
 
 ## Backend
 * ...
-* ...
-* ...
+
 
