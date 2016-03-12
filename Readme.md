@@ -7,8 +7,7 @@
 
 ## Git&Links 
 
-> Curated lists of links for WebDev, Design, & more. 
-> _(Just a begining & a [work in progress](https://github.com/AndreiCurelaru/Git-and-Links/blob/master/About.md), obviously inspired by the Awesome VueJS-links repo)_
+> _Awesome_ ... or not, that's just my little personal handy links :)
 
 HOME >
 
