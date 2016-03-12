@@ -22,38 +22,25 @@ HOME >
 
 - #### JS Itself
 
-  - [JS Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - on Mozilla <sup>[+]</sup>
+  - [JS Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - from Mozilla 
 
 - #### JS Plateforms
 
-  - [Meteor](https://docs.angularjs.org/guide) - Docs <sup>[+]</sup>
+  - [Meteor](https://docs.angularjs.org/guide) - Docs 
 
 - #### JS Frontend
 
-  - [Angular](https://docs.angularjs.org/guide) - Docs <sup>-</sup>
-  - [Angular 2](https://angular.io/docs/js/latest/index.html) - Docs<sup>-</sup>
-  - [ReactJS](http://facebook.github.io/react/docs/getting-started.html) - Docs <sup>-</sup>
-  - [ReactJS](http://facebook.github.io/react/docs/getting-started.html) - Docs <sup>-</sup>
-  - [EmberJS](https://guides.emberjs.com/v2.4.0/) - Docs <sup>-</sup>
-  - [VueJS](http://vuejs.org/guide/) - Docs <sup>[[+]](https://github.com/vuejs/awesome-vue)</sup>
-  - [AureliaJS](http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/what-is-aurelia) - Docs <sup>-</sup>
+  - [Angular](https://docs.angularjs.org/guide) - Docs 
+  - [Angular 2](https://angular.io/docs/js/latest/index.html) - Docs
+  - [ReactJS](http://facebook.github.io/react/docs/getting-started.html) - Docs 
+  - [EmberJS](https://guides.emberjs.com/v2.4.0/) - Docs
+  - [VueJS](http://vuejs.org/guide/) - Docs -[[+]](https://github.com/vuejs/awesome-vue)
+  - [AureliaJS](http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/what-is-aurelia) - Docs 
 
 - #### JS Backend
 
   - ... to come next.
 
-
-
-
-TODO: CLI stuff, CSS, PHP, Code editors & softs ...
-
-
-_Here just for quick ref_
-### Categ
-
-- #### SubCateg
-
-  - [link](url) - Desc <sup>-more</sup>
 
 
 
