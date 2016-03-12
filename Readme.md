@@ -7,7 +7,8 @@
 
 ## Git&Links 
 
-> Curated lists of links for WebDev, Design, & more. (just a begining & a work in progress)
+> Curated lists of links for WebDev, Design, & more. 
+> _(Just a begining & a [work in progress](https://github.com/AndreiCurelaru/Git-and-Links/blob/master/About.md), obviously inspired by the Awesome VueJS-links repo)_
 
 HOME >
 
@@ -34,7 +35,7 @@ HOME >
   - [Angular 2](https://angular.io/docs/js/latest/index.html) - Docs
   - [ReactJS](http://facebook.github.io/react/docs/getting-started.html) - Docs 
   - [EmberJS](https://guides.emberjs.com/v2.4.0/) - Docs
-  - [VueJS](http://vuejs.org/guide/) - Docs -[[+]](https://github.com/vuejs/awesome-vue)
+  - [VueJS](http://vuejs.org/guide/) - Docs [[+]](https://github.com/vuejs/awesome-vue)
   - [AureliaJS](http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/what-is-aurelia) - Docs 
 
 - #### JS Backend
