@@ -7,7 +7,7 @@
 
 ## Git&Links 
 
-> _Awesome_ ... or not, that's just my little personal handy links :)
+> _Awesome_ ... or not, that's just my little personal handy links :) (a work in progress)
 
 HOME >
 
