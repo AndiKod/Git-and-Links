@@ -1,4 +1,4 @@
-#((<p>
+<p>
     <br>
     <a href="https://github.com/AndreiCurelaru/Git-and-Links">
        <img src="http://infinidad.fr/images/uploads/GL-small.jpg" alt="GitLinks">
@@ -10,7 +10,7 @@
     
 </p>
 
-## usual WebServices & WebApps 
+### WebServices & WebApps 
 
 
 - [Launchpad](#Launchpad)
@@ -30,7 +30,6 @@
   - [Yandex](https://mail.yandex.com)
   - [gMail](https://mail.google.com)
   - [Yahoo](https://fr-mg42.mail.yahoo.com)
-  
   - [MailChimp](http://mailchimp.com)
 
 - #### SocialMedia
@@ -41,7 +40,6 @@
   - [Pinterest](https://fr.pinterest.com/)
   - [Youtube](https://www.youtube.com/)
   - [LinkedIn](https://www.linkedin.com)
-  
   - [Buffer](https://buffer.com/) - Publish everywhere
 
 - #### Git Repositories
