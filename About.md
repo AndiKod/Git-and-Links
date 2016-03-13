@@ -11,11 +11,4 @@ A looong way ahead, but could help me reach my daily web places, and help maybe 
 _TODO: CLI stuff, CSS, PHP, Code editors & softs ..._
 
 
-Here just for quick ref:
-### Categ
-
-- #### SubCateg
-
-  - [link](#) - Desc - [[+]](#)
-
 
