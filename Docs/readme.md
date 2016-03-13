@@ -10,56 +10,34 @@
     
 </p>
 
-### Docs 
-
-
-- [Launchpad](#Launchpad)
-  - [Language & Markup](#webmail-mailing)
-  - [SocialMedia](#socialmedia)
-  - [GitRepos](#git-repositories)
-  - [Web Editors](#web-editors)
-  - [Hosting & Servers](#hosting--servers)
-  
-- [Documentations](#docs)
-
-
-
-### Launchpad
-
-- #### Webmail Mailing
-
-  - [Yandex](https://mail.yandex.com)
-  - [gMail](https://mail.google.com)
-  - [Yahoo](https://fr-mg42.mail.yahoo.com)
-  - [MailChimp](http://mailchimp.com)
-
-- #### SocialMedia
-
-  - [Facebook](https://www.facebook.com/)
-  - [Twitter](https://twitter.com/)
-  - [Google+](plus.google.com)
-  - [Pinterest](https://fr.pinterest.com/)
-  - [Youtube](https://www.youtube.com/)
-  - [LinkedIn](https://www.linkedin.com)
-  - [Buffer](https://buffer.com/) - Publish everywhere
-
-- #### Git Repositories
-
-  - [Github](https://github.com/AndreiCurelaru) - For Public repos
-  - [Beatbucket](https://bitbucket.org/Infinidad/) - Free for Private repos
-
-- #### Web Editors
-  
-  - [Dilinger](http://dillinger.io/) - Markdown editor. Can be pluged into Github, Dropbox, Drive, etc.
-  - [CodeAnywhere](https://codeanywhere.com/) - Free remote FTP **
-  - [Cloud9](https://c9.io/) - Free remote FTP *
-
-- #### Hosting & Servers
-  
-  - [OVH](http://ovh.com) - Shared hosting
-  - [Heroku](http://heroku.com) - Small Free server
-  - [Openshift](http://openshift.com) - Small Free server
-  
 ### Docs
 
-Here will be the link to the global *Docs&Tuts* section.
+- [Javascript](#javascript)
+  - [JS itself](#js-itself)
+  - [Plateforms](#js-plateforms)
+  - [Frontend](js-frontend)
+  - [Backend](js-backend)
+
+
+### Javascript
+
+- #### JS Itself
+
+  - [JS Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - from Mozilla 
+
+- #### JS Plateforms
+
+  - [Meteor](https://docs.angularjs.org/guide) - Docs 
+
+- #### JS Frontend
+
+  - [Angular](https://docs.angularjs.org/guide) - Docs 
+  - [Angular 2](https://angular.io/docs/js/latest/index.html) - Docs
+  - [ReactJS](http://facebook.github.io/react/docs/getting-started.html) - Docs 
+  - [EmberJS](https://guides.emberjs.com/v2.4.0/) - Docs
+  - [VueJS](http://vuejs.org/guide/) - Docs [[+]](https://github.com/vuejs/awesome-vue)
+  - [AureliaJS](http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/what-is-aurelia) - Docs 
+
+- #### JS Backend
+
+  - ... to come next.

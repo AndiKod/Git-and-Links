@@ -5,7 +5,7 @@
     </a>
     <img src="http://infinidad.fr/images/uploads/GL-line.jpg" alt="GitLinks">
     <p>
-      <a href="https://github.com/AndreiCurelaru/Git-and-Links">Home</a> > WebServices&WebApps
+      <a href="https://github.com/AndreiCurelaru/Git-and-Links">Home</a> > Docs
     </p>
     
 </p>
@@ -19,7 +19,7 @@
   - [GitRepos](#git-repositories)
   - [Web Editors](#web-editors)
   - [Hosting & Servers](#hosting--servers)
-- [Documentations](#docs)
+- [NAV](#nav)
 
 
 
@@ -59,6 +59,11 @@
   - [Heroku](http://heroku.com) - Small Free server
   - [Openshift](http://openshift.com) - Small Free server
   
-### Docs
 
-Here will be the link to the global *Docs&Tuts* section.
+---
+  
+### Nav
+
+### [Home](https://github.com/AndreiCurelaru/Git-and-Links)
+Temp' Docs
+

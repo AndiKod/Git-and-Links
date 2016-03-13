@@ -8,7 +8,7 @@ A looong way ahead, but could help me reach my daily web places, and help maybe 
 
 ---
 
-_TODO: CLI stuff, CSS, PHP, Code editors & softs ..._
+
 
 
 
