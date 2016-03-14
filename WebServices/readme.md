@@ -30,7 +30,8 @@
   - [Yandex](https://mail.yandex.com)
   - [gMail](https://mail.google.com)
   - [Yahoo](https://fr-mg42.mail.yahoo.com)
-  - [MailChimp](http://mailchimp.com)
+  - [MailChimp](http://mailchimp.com) 
+  - [SendGrid](https://sendgrid.com) 
 
 - #### SocialMedia
 
@@ -56,8 +57,8 @@
 - #### Hosting & Servers
   
   - [OVH](http://ovh.com) - Shared hosting
-  - [Heroku](http://heroku.com) - Small Free server
   - [Openshift](http://openshift.com) - Small Free server
+  - [Heroku](http://heroku.com) - Small Free server
   
 
 ---
