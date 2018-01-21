@@ -47,6 +47,7 @@
 
   - [Github](https://github.com/AndreiCurelaru) - For Public repos
   - [Beatbucket](https://bitbucket.org/Infinidad/) - Free for Private repos
+  - [GitLab](https://gitlab.com/) - Private repos / nice UI
 
 - #### Web Editors
   
@@ -59,7 +60,8 @@
   - [OVH](http://ovh.com) - Shared hosting
   - [Openshift](http://openshift.com) - Small Free server
   - [Heroku](http://heroku.com) - Small Free server
-  
+  - [CloudCannon](https://cloudcannon.com) - Free Jekyll Sandbox
+  - [Ovobox](https://www.ovobox.com) - Free static apps hosting  
 
 ---
   
