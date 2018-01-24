@@ -53,7 +53,7 @@
   
   - [Dilinger](http://dillinger.io/) - Markdown editor. Can be pluged into Github, Dropbox, Drive, etc.
   - [CodeAnywhere](https://codeanywhere.com/) - Free remote FTP **
-  - [Cloud9](https://c9.io/) - Free remote FTP *
+  
 
 - #### Hosting & Servers
   
@@ -66,7 +66,6 @@
 ---
   
 ### Nav
-
 ### [Home](https://github.com/AndreiCurelaru/Git-and-Links)
 Temp' Docs
 
