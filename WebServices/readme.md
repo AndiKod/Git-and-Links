@@ -19,6 +19,7 @@
   - [GitRepos](#git-repositories)
   - [Web Editors](#web-editors)
   - [Hosting & Servers](#hosting--servers)
+  - [Other Stuff](#other--stuff)
 - [NAV](#nav)
 
 
@@ -62,6 +63,11 @@
   - [Heroku](http://heroku.com) - Small Free server
   - [CloudCannon](https://cloudcannon.com) - Free Jekyll Sandbox
   - [Ovobox](https://www.ovobox.com) - Free static apps hosting  
+
+- #### Other Stuff
+
+  - [Freenode IRC](https://webchat.freenode.net) - Tech Channels over IRC
+
 
 ---
   
