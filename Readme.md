@@ -1,5 +1,3 @@
-
-
 ## Git&Links 
 
 > _Awesome_ ... or not, that's just my little personal handy links :) (a work in progress)
@@ -21,5 +19,5 @@ Mainly Javascript stuff for now. more to come.
 ----
 _TODO: CLI stuff, CSS, PHP, Code editors & softs ..._
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwMTcyMTEzXX0=
+eyJoaXN0b3J5IjpbNzcxNTE1MDUzXX0=
 -->
