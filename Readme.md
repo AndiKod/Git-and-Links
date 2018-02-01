@@ -1,9 +1,4 @@
-<p align="center">
-  <br>
-  <img width="338" src="http://infinidad.fr/images/uploads/GitLinks.jpg" alt="GitLinks">
-  <br>
-  <br>
-</p>
+
 
 ## Git&Links 
 
@@ -26,5 +21,5 @@ Mainly Javascript stuff for now. more to come.
 ----
 _TODO: CLI stuff, CSS, PHP, Code editors & softs ..._
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODkxNzY4OF19
+eyJoaXN0b3J5IjpbMzkwMTcyMTEzXX0=
 -->
