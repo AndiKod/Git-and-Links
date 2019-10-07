@@ -31,7 +31,6 @@
 
 - #### JS Frontend
 
-  - [Angular](https://docs.angularjs.org/guide) - Docs 
   - [Angular 2](https://angular.io/docs/js/latest/index.html) - Docs
   - [ReactJS](http://facebook.github.io/react/docs/getting-started.html) - Docs 
   - [EmberJS](https://guides.emberjs.com/v2.4.0/) - Docs
