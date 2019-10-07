@@ -36,7 +36,6 @@
   - [ReactJS](http://facebook.github.io/react/docs/getting-started.html) - Docs 
   - [EmberJS](https://guides.emberjs.com/v2.4.0/) - Docs
   - [VueJS](http://vuejs.org/guide/) - Docs [[+]](https://github.com/vuejs/awesome-vue)
-  - [AureliaJS](http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/what-is-aurelia) - Docs 
 
 - #### JS Backend
 
