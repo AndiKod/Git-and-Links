@@ -1,14 +1,3 @@
-<p>
-    <br>
-    <a href="https://github.com/AndreiCurelaru/Git-and-Links">
-       <img src="http://infinidad.fr/images/uploads/GL-small.jpg" alt="GitLinks">
-    </a>
-    <img src="http://infinidad.fr/images/uploads/GL-line.jpg" alt="GitLinks">
-    <p>
-      <a href="https://github.com/AndreiCurelaru/Git-and-Links">Home</a> > Docs
-    </p>
-    
-</p>
 
 ### WebServices & WebApps 
 
@@ -38,7 +27,6 @@
 
   - [Facebook](https://www.facebook.com/)
   - [Twitter](https://twitter.com/)
-  - [Google+](plus.google.com)
   - [Pinterest](https://fr.pinterest.com/)
   - [Youtube](https://www.youtube.com/)
   - [LinkedIn](https://www.linkedin.com)
@@ -54,16 +42,14 @@
   
   - [Dilinger](http://dillinger.io/) - Markdown editor. Can be pluged into Github, Dropbox, Drive, etc.
   - [CodeAnywhere](https://codeanywhere.com/) - Free remote FTP **
-  - [Orionhub](https://orionhub.org) - Awesome cloud IDE with great Git intégration
   
 
 - #### Hosting & Servers
   
-  - [OVH](http://ovh.com) - Shared hosting
-  - [Openshift](http://openshift.com) - Small Free server
+  - [PlanetHoster](planethoster.com) - Au Top!
   - [Heroku](http://heroku.com) - Small Free server
   - [CloudCannon](https://cloudcannon.com) - Free Jekyll Sandbox
-  - [Ovobox](https://www.ovobox.com) - Free static apps hosting  
+  - [Surge](https://surge.sh) - Free static apps hosting  
 
 - #### Other Stuff
 
@@ -73,6 +59,5 @@
 ---
   
 ### Nav
+### [Back to Top](https://github.com/AndiKod/Git-and-Links/tree/master/WebServices#Launchpad)
 ### [Home](https://github.com/AndreiCurelaru/Git-and-Links)
-Temp' Docs
-
