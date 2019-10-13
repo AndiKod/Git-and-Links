@@ -49,7 +49,8 @@
   - [PlanetHoster](planethoster.com) - Au Top!
   - [Heroku](http://heroku.com) - Small Free server
   - [CloudCannon](https://cloudcannon.com) - Free Jekyll Sandbox
-  - [Surge](https://surge.sh) - Free static apps hosting  
+  - [Surge](https://surge.sh) - Free static apps hosting / git sync
+  - [Netlify](https://www.netlify.com) - Free static site hosting / git sync 
 
 - #### Other Stuff
 
