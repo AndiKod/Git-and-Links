@@ -1,5 +1,5 @@
 
-### Docs
+## Docs
 
 - [Javascript](#javascript)
   - [JS itself](#js-itself)
@@ -7,7 +7,7 @@
   - [Backend](js-backend)
 
 
-### Javascript
+## Javascript
 
 - #### JS Itself
 
@@ -24,3 +24,25 @@
 - #### JS Backend
 
   - ... to come next.
+
+
+## PHP
+
+- #### PHP Itself
+
+  - [PHP.net](https://www.php.net/manual/en/) - from Mozilla 
+  - [PHP](https://www.tutorialspoint.com/php)- Basics at TutorialsPoint
+  - [PHP7](https://www.tutorialspoint.com/php7) - Idem as above
+  - [PHP](www.w3schools.com/php) - at w3school
+
+- #### Frameworks
+
+  - [CodeIgniter4](https://codeigniter4.github.io/userguide/)
+  - [Symfony](https://symfony.com/doc/current)
+  - [Slim4](http://www.slimframework.com/docs/v4/)
+  - ...and also
+  - [Laravel6](https://laravel.com/docs/6.x) - aka daMontster
+
+- #### Tools
+
+  - [Packagist](https://packagist.org/about#how-to-update-packages)  
