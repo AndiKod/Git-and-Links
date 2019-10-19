@@ -17,7 +17,7 @@ Mainly Javascript stuff for now. more to come.
 
 
 ----
-_TODO: CLI stuff, CSS, Code editors & softs ...._
+_TODO: CLI stuff, CSS, Code editors & softs ..._
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzcxNTE1MDUzXX0=
 -->
