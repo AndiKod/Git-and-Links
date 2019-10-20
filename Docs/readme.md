@@ -12,6 +12,8 @@
 - #### JS Itself
 
   - [JS Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - from Mozilla 
+  - [JS](https://www.tutorialspoint.com/javascript/index.htm) - at TutorialsPoint
+  - [ES6](https://www.tutorialspoint.com/es6/index.htm) - at TutorialsPoint
 
 - #### JS Frontend
 
