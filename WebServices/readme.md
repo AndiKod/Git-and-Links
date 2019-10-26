@@ -51,6 +51,7 @@
   - [CloudCannon](https://cloudcannon.com) - Free Jekyll Sandbox
   - [Surge](https://surge.sh) - Free static apps hosting / git sync
   - [Netlify](https://www.netlify.com) - Free static site hosting / git sync 
+  - [DigitalOcean](http://digitalocean.com) - Not free but affordable
 
 - #### Other Stuff
 
