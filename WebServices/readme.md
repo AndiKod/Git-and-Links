@@ -9,6 +9,7 @@
   - [Web Editors](#web-editors)
   - [Hosting & Servers](#hosting--servers)
   - [Other Stuff](#other--stuff)
+  - [Techs](#techs)
 - [NAV](#nav)
 
 
@@ -56,6 +57,11 @@
 - #### Other Stuff
 
   - [Freenode IRC](https://webchat.freenode.net) - Tech Channels over IRC
+
+- #### Techs
+
+  - [Flutter](https://flutter.dev) - Native apps with Dart
+  - [Strapi](https://strapi.io/documentation/3.0.0-beta.x/getting-started/introduction.html) - Headless cms
 
 
 ---
