@@ -28,7 +28,6 @@
 
   - [Facebook](https://www.facebook.com/)
   - [Twitter](https://twitter.com/)
-  - [Pinterest](https://fr.pinterest.com/)
   - [Youtube](https://www.youtube.com/)
   - [LinkedIn](https://www.linkedin.com)
   - [Buffer](https://buffer.com/) - Publish everywhere
