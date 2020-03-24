@@ -17,11 +17,10 @@
 
 - #### JS Frontend
 
-  - [NuxtJS](https://nuxtjs.org/guide) - Guide (plus API, Exemples & FAQ)
   - [VueJS](http://vuejs.org/guide/) - Docs [[+]](https://github.com/vuejs/awesome-vue)
-  - [Angular 2](https://angular.io/docs/js/latest/index.html) - Docs
+  - [NuxtJS](https://nuxtjs.org/guide) - Guide (plus API, Exemples & FAQ)
   - [ReactJS](http://facebook.github.io/react/docs/getting-started.html) - Docs 
-  - [EmberJS](https://guides.emberjs.com/v3.13.0/) - Docs
+  - [NextJS](https://nextjs.org) - the Nuxt of React
   
   
 
