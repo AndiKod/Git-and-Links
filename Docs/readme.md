@@ -22,6 +22,7 @@
   - [NuxtJS](https://nuxtjs.org/guide) - Guide (plus API, Exemples & FAQ)
   - [ReactJS](http://facebook.github.io/react/docs/getting-started.html) - Docs 
   - [NextJS](https://nextjs.org) - the Nuxt of React
+  - [11ty](https://www.11ty.dev/docs) - The elephant in the room
   
   
 
