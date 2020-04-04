@@ -55,3 +55,4 @@
 - #### Autres
 
   - [Pen2D](https://www.pencil2d.org)
+  - [GitBook](https://docs.gitbook.com)
