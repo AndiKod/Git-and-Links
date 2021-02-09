@@ -59,8 +59,12 @@
 
   - [Pen2D](https://www.pencil2d.org)
   - [GitBook](https://docs.gitbook.com)
+<<<<<<< HEAD
 
 - #### 11ty Related
   - [11ty Docs](https://www.11ty.dev/docs)
   - [Nunjuks](https://mozilla.github.io/nunjucks/templating.html)
   - [Tailwind](https://tailwindcss.com/docs)
+=======
+  - [GitHub Git](https://docs.github.com/en/github/using-git/getting-started-with-git-and-github)
+>>>>>>> 4266318d977f23b82b4a72b069e05e1114308f9b
