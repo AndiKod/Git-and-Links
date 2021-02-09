@@ -59,7 +59,6 @@
 
   - [Pen2D](https://www.pencil2d.org)
   - [GitBook](https://docs.gitbook.com)
-<<<<<<< HEAD
 
 - #### 11ty Related
   - [11ty Docs](https://www.11ty.dev/docs)
