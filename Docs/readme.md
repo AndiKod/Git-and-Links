@@ -63,5 +63,6 @@
 - #### 11ty Related
   - [11ty Docs](https://www.11ty.dev/docs)
   - [Nunjuks](https://mozilla.github.io/nunjucks/templating.html)
+  - [Liquid](https://shopify.github.io/liquid/)
   - [Tailwind](https://tailwindcss.com/docs)
-
+  - []()
